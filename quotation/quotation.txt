@@ -49,24 +49,24 @@
     — Charles Antony Richard Hoare
 
 16. 简单是稳定的前提。
-   — Edsger Dijkstra
+    — Edsger Dijkstra
 
 17. 性能的关键是精简，而不是一堆的优化用例。除非有真正显著的效果，
     否则一定要忍住你那些蠢蠢欲动的小微调的企图。
-   — Jon Bently 和 M. Douglas McIlroy
+    — Jon Bently 和 M. Douglas McIlroy
 
 18. 使用C++的问题就在于这种语言有一种很大的脾气，在你想做任何事情之前你必须把所有的知识都掌握才行。
-   — Larry Wall
+    — Larry Wall
 
 19. 开发的越早，程序花费你的时间越长。
-   — Roy Carlson
+    — Roy Carlson
 
 20. 世上只有两种编程语言：一种是总是被人骂的，一种是从来没人用的。
-   — Bjarne Stroustrup
+    — Bjarne Stroustrup
 
 21. 丑陋的程序和丑陋的吊桥一样：他们都容易坍塌，因为人类(尤其是工程师们)的审美定义跟人们对复杂事物的处理
     和理解密切相关。一种编程语言如果不能使你写出优美的代码，那它也就不能使你写出好的程序。
-   — Eric S.Raymond
+    — Eric S.Raymond
 
 22. 省下几个小时的计划时间，需要数周的编程时间来弥补。
-   — 佚名
+    — 佚名
